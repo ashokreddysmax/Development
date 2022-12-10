@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WebPortal/WebPortal/bin/Debug/net6.0
+/WebPortal/WebPortal/obj
+/WebPortal/.vs/WebPortal/FileContentIndex
+/WebPortal/WebPortal/WebPortal.csproj.user
